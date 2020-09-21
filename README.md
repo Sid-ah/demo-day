@@ -2,4 +2,6 @@
 
 This is a fun project!
 
-Adding a new line.
+Some new line. 
+
+Adding a new line
